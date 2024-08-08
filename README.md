@@ -54,3 +54,4 @@ const responseBody = `
 ```
 
 [template literal]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+# waa08-formulate-response
